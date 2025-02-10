@@ -46,8 +46,8 @@ The competition uses **LogLoss** as the evaluation metric. Accuracy is also moni
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/deepfake-detection.git
-   cd deepfake-detection
+   git clone https://github.com/AnshAggr1303/Deepfake-Imagedetection.git
+   cd Deepfake-Imagedetection
    ```
 
 2. **Install the required libraries:**
@@ -61,8 +61,7 @@ The competition uses **LogLoss** as the evaluation metric. Accuracy is also moni
    - pandas  
    - scikit-learn  
    - matplotlib  
-   - tensorflow (or PyTorch, if used)  
-   - OpenCV  
+   - tensorflow   
 
 3. **Run the notebook locally:**
    Open the Jupyter notebook:
@@ -91,13 +90,7 @@ Where:
 - N is the number of predictions
 - y_i is the actual label
 - ŷ_i is the predicted probability of the image being real
-
----
-
-## **Resources**
-- **Competition Link:** [Kaggle Competition Page](#) *(Replace with the actual link)*
-- **Evaluation Details:** [Evaluation Section](#) *(Replace with the actual link)*
-
+  
 ---
 
 ## **Contributing**
